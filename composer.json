@@ -19,7 +19,7 @@
     "require": {
         "php": ">=7.1",
         "beapp/mailer-core": "1.1.2",
-        "mailgun/mailgun-php": "^2.3"
+        "mailgun/mailgun-php": "^3.3"
     },
     "extra": {
         "branch-alias": {
